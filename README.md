@@ -2,7 +2,8 @@
   This repository is for Roblox Studio.
 
   So. I made 2D Matrix Rain Effect. It is pretty simple but might be useful for someone.
-  There is 2 scripts. One is making the effects with loop and second is with TweenService
+  There is 2 scripts. One is making the effects with loop and second is with TweenService.
+  For better effect turn on "IgnoreGuilnset" in ScreenGui
   
   To setup and see/use it all you need is:
   1. Downolad
